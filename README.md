@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @astrimbu, or Alan
+- 👋 Hi, I’m Alan
 - 🎓 I earned a B.S. in Computer Science from DePaul University in 2020
 - 👨‍💻 I’m working on advancing my full stack development skills
 - 🌱 I’m currently learning about Meteor, React, nosql, and GraphQL
