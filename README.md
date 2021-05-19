@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alan
 - 🎓 I earned a B.S. in Computer Science from DePaul University in 2020
 - 👨‍💻 I’m working on advancing my full stack development skills
-- 🌱 I’m currently learning about Meteor, React, nosql, and GraphQL
+- 🌱 I’m currently learning about Adobe XD, React, Meteor, nosql, and GraphQL
 - 📫 Reach me via email -- same username @ gmail
 
 <!---
