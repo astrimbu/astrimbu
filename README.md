@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alan
-- 👨‍💻 I am a software developer. I enjoy using React and Python.
-- 🎓 I have a bachelor's degree in computer science from DePaul University
+- 👨‍💻 Python rules
+
 
 <!---
 astrimbu/astrimbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
