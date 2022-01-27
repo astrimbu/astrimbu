@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alan
-- 👨‍💻 Python rules
+- 👨‍💻 I design & develop web apps
 
 
 <!---
