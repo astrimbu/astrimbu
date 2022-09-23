@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Alan
-- 👨‍💻 I design & develop web apps
+- 👨‍💻 I write code
+- 🎓 B.S. in Computer Science, DePaul
 
 
 <!---
