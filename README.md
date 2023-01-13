@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Alan
-- 👨‍💻 I write code
 - 🎓 B.S. in Computer Science, DePaul
 
 
