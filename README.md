@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Alan
-- 🎓 B.S. in Computer Science, DePaul
+- 👋 Alan S.
+- 🎓 Computer Scientist
+- 👨‍💻 Software / Web Development
 
 
 <!---
