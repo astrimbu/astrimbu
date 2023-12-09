@@ -1,5 +1,4 @@
 - 👋 Alan S.
-- 🎓 Computer Scientist
 - 👨‍💻 Software / Web Development
 
 
