@@ -1,4 +1,4 @@
-- 👋 Hi I'm Alan
+- 👋 Hi i'm alan
 - 👨‍💻 Python, ai, webdev
 - ⚖️ Simple ⊼ complex
 
