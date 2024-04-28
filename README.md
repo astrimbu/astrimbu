@@ -1,6 +1,6 @@
-- 👋 Alan S.
-- 👨‍💻 Software / Web Development
-
+- 👋 Hi I'm Alan
+- 👨‍💻 Python, ai, webdev
+- ⚖️ Simple ⊼ complex
 
 <!---
 astrimbu/astrimbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
