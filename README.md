@@ -1,5 +1,5 @@
-- 👋 hi i'm alan
-- 👨‍💻 python, ai, webdev
+- 👋 hi, i'm alan
+- 👨‍💻 research, ai, nlp, software
 - ⚖️ simple ⊼ complex
 
 <!---
