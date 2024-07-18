@@ -1,6 +1,6 @@
 - 👋 hi, i'm alan
-- 👨‍💻 research, ai, nlp, software
-- ⚖️ simple ⊼ complex
+- 👨‍💻 researching ai, llms
+- ⚖️ simple = good
 
 <!---
 astrimbu/astrimbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
