@@ -1,6 +1,7 @@
-- 👋 hi, i'm alan
-- 👨‍💻 researching ai, llms
-- ⚖️ simple = good
+- 👋 hi im alan
+- 📖 researching llms
+- 👨‍💻 building web apps
+- ⚖️ simple is good
 
 <!---
 astrimbu/astrimbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
