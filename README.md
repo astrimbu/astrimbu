@@ -1,7 +1,6 @@
-- 👋 hi im alan
-- 📖 researching llms
-- 👨‍💻 building web apps
-- ⚖️ simple is good
+- 👋 hi, i'm alan, i'm:
+- 👨‍💻 developing React apps,
+- 📖 reading about llms, nlp, language
 
 <!---
 astrimbu/astrimbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
