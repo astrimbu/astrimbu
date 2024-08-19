@@ -1,4 +1,4 @@
-developing web apps in React  
+Developing web apps in React  
 
 <!---
 astrimbu/astrimbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
