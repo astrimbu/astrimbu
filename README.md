@@ -1,4 +1,4 @@
-developing web apps in React  
+developing web apps and games in react and godot
 
 <!---
 astrimbu/astrimbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
