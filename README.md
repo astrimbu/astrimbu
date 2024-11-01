@@ -1,6 +1,6 @@
 # hi, i'm alan 👋
 
-i'm a cs grad with a passion for merging art & tech. my background spans web dev, ml, game dev, and ai, giving me a unique perspective on integrating innovative tools into projects
+i'm a cs grad with a passion for merging art & tech. my background spans web dev, ml, game dev, and ai, giving me a unique perspective on integrating innovative tools into projects.
 
 ### 🔧 tech stack
 - **web dev**: html/css/js/react/python (with a focus on building scalable & performant frontend experiences)
