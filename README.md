@@ -1,9 +1,9 @@
-# hi, i'm alan
+# hi, i'm alan 🙋🏻‍♂️
 
-i'm a software developer with a passion for merging art & tech.
+i'm a software developer with a passion for merging art & tech
 
-### exploring
-- experimenting with ai-driven tools & workflows, focusing on innovative applications of tech.
+### currently
+- experimenting with ai-driven tools & workflows, focusing on innovative applications of tech
 
 ### dm me
 - **[@astrimbu](https://x.com/astrimbu)** on 𝕏
