@@ -1,4 +1,4 @@
-# hey, i'm alan 🙋🏻‍♂️
+# greetings, i'm alan
 
 i'm a software developer with a passion for merging art & tech
 
