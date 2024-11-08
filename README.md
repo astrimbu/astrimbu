@@ -1,6 +1,6 @@
-# greetings, i'm alan
+# greetings, i am alan
 
-i'm a software developer with a passion for merging art & tech
+i am a software developer with a passion for merging art & tech
 
 ### currently
 - experimenting with ai-driven tools & workflows, focusing on innovative applications of tech
