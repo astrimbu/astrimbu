@@ -2,11 +2,7 @@
 
 i am a software developer with a passion for merging art & tech
 
-### currently
-- experimenting with ai-driven tools & workflows, focusing on innovative applications of tech
-
-### dm me
-- **[@astrimbu](https://x.com/astrimbu)** on 𝕏
+dm's are open: **[@astrimbu](https://x.com/astrimbu)** on 𝕏
 
 
 <!---
