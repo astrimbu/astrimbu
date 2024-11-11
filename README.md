@@ -2,7 +2,7 @@
 
 i am a software developer with a passion for merging art & tech
 
-dm's are open: **[@astrimbu](https://x.com/astrimbu)** on 𝕏
+dm me: **[@astrimbu](https://x.com/astrimbu)** on 𝕏
 
 
 <!---
